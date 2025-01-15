@@ -1,37 +1,44 @@
-# CookieSoft-GoVerify
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">CookieSoft-GoVerify v1.0.0</h1>
+<h4 align="center">基于 gin+Vue 的跨平台个人版网络验证</h4>
 
-#### 介绍
-CookieSoft开发的Go版本的个人版网络验证，简约美观
+项目文档地址：https://va17636oux.apifox.cn/doc-5218282
 
-#### 软件架构
-软件架构说明
+## 项目介绍
 
+🎉 基于Go，gin，JWT，vue前后端分离的权限管理系统
 
-#### 安装教程
+* 前端采用Vue3 & ElementUIPlus & 感谢武汉易云网络科技公司提供的EleAdmin。
+* 后端采用go、gin & Jwt & gorm & mysql & copier & redis & gin-cache 。
+* 权限认证使用Jwt，支持多终端认证系统。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 安装
 
-#### 使用说明
+请查看安装文档，在文档中会具体介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 启动
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+```shell
+# 读写权限
+chmod 777 cookie-network-verify-linux 
+# 启动
+./cookie-network-verify-linux
+```
+## 演示图
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+|  开发端   | 系统运行截图    |
+| --- | --- |
+|  ![输入图片说明](img/1.png)   |   ![输入图片说明](img/2.png)  |
+|  ![输入图片说明](img/3.png)   |   ![输入图片说明](img/4.png)  |
+|  ![输入图片说明](img/5.png)   |   ![输入图片说明](img/6.png)  |
+|  ![输入图片说明](img/7.png)   |   ![输入图片说明](img/8.png)  |
+|  ![输入图片说明](img/9.png)   |     |
+
+> 代理端更多功能等你探索！！！
+
+欢迎加入群聊
+
+QQ群聊：559503921
+开发者：3130894126
+
