@@ -7,7 +7,7 @@
 
 🎉 基于Go，gin，JWT，vue前后端分离的权限管理系统
 
-* 前端采用Vue3 & ElementUIPlus & 感谢武汉易云网络科技公司提供的EleAdmin。
+* 前端采用Vue3 & ElementUIPlus
 * 后端采用go、gin & Jwt & gorm & mysql & copier & redis & gin-cache 。
 * 权限认证使用Jwt，支持多终端认证系统。
 
